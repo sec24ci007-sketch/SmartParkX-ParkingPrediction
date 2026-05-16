@@ -21,6 +21,8 @@ Geofencing-based access control
 Auto-release of unused slots
 Secure payment integration
 Parking analytics dashboard
+
+
 ⚙️ Key Features
 🚗 Real-Time Parking Availability
 🧠 AI Slot Prediction using Azure ML
@@ -30,9 +32,12 @@ Parking analytics dashboard
 💳 Digital Payment System
 📊 Power BI Analytics Dashboard
 🤝 GitHub-based Collaboration & Workflow
+
+
 🛠️ Tech Stack
 Frontend
 Flutter (Dart)
+
 Backend
 Python
 API Integration
@@ -41,18 +46,24 @@ Microsoft Azure Machine Learning
 Azure Maps
 Power BI
 GitHub & GitHub Copilot
+
+
 📈 Future Scope
 EV charging slot integration
 Smart city connectivity
 Dynamic pricing system
 AI traffic optimization
 IoT sensor integration
+
+
 🎯 Project Impact
 Reduces parking search time
 Minimizes traffic congestion
 Lowers fuel wastage and emissions
 Improves parking space utilization
 Supports smarter urban infrastructure
+
+
 👤 Team Details
 Team Name:
 
